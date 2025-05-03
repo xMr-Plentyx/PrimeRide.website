@@ -17,9 +17,7 @@ Welcome to PrimeRide – your trusted mobile car wash and detailing service. We 
 
 ## Try It Live
 
-**[View the website](https://your-github-username.github.io/PrimeRide.website/)**
-
-> Replace `your-github-username` with your actual GitHub username in the link above.
+**[View the website](https://xMr-Plentyx.github.io/PrimeRide.website/)**
 
 ## Highlights
 
