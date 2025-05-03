@@ -1,0 +1,73 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0a1a2f;
+    color: #c0c0c0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #061120;
+    padding: 1rem 2rem;
+}
+
+header img {
+    height: 40px;
+}
+
+nav a {
+    color: #c0c0c0;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 3rem 1rem;
+    background-color: #0d2038;
+}
+
+.cta-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #c0c0c0;
+    color: #0a1a2f;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 2rem;
+}
+
+.service-card {
+    background-color: #132a47;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 5px;
+}
+
+form input, form select, form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 3px;
+}
+
+form button {
+    background-color: #c0c0c0;
+    color: #0a1a2f;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #061120;
+    color: #c0c0c0;
+}
