@@ -12,7 +12,7 @@ Welcome to PrimeRide – your trusted mobile car wash and detailing service. We 
 | Package           | Description                          | Price     |
 |------------------|--------------------------------------|-----------|
 | **Basic Wash**    | Exterior wash, rinse & dry           | ₹499      |
-| **Deluxe Wash**   | Basic wash + interior vacuuming      | ₹699      |
+| **Deluxe Wash**   | Basic wash + interior vacuuming      | ₹799      |
 | **Premium Wash**  | Deluxe wash + waxing & polish        | ₹1199     |
 
 ## Try It Live
