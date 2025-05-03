@@ -26,12 +26,12 @@ Welcome to PrimeRide – your trusted mobile car wash and detailing service. We 
 - Trusted by hundreds of happy customers
 - Fast, eco-friendly, and professional
 
-## Screenshots
+## Service Options
 
-### Booking Section  
-![Booking](basic1.jpg)
+### Basic Wash  
+![Basic](basic1.jpg)
 
-### Deluxe Wash  
+### Deluxe Package  
 ![Deluxe](deluxe2.jpg)
 
 ### Premium Experience  
