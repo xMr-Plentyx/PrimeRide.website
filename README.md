@@ -42,5 +42,5 @@ Welcome to PrimeRide – your trusted mobile car wash and detailing service. We 
 ## Contact Us
 
 For support or inquiries:  
-**Email:** info@primeride.com  
+**Email:** primeridewash@gmail.com  
 **Instagram:** [@PrimeRideOfficial](https://instagram.com/primerideofficial)
